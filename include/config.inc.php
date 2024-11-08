@@ -3,7 +3,7 @@
 $hostname="localhost";
 $database="firma";
 $username="root";
-$password="ste414#$";
+$password="";
 
 //Datenbank-Verbindung
 $mysqli = @(new mysqli($hostname, $username, $password, $database));
