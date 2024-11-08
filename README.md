@@ -10,6 +10,7 @@
 <h2>Installation</h2>
 <ul>
   <li>Die Datenbank mit dem Script "firma.sql" erstellen (Datenbankname: firma)</li>
+  <li>Datei config.inc.php im Verzeichnis config anpassen (Datenbankverbindung)</li>
   <li>Den gesamten Code auf den Webserver kopieren (Verzeichnis: firma)</li>
   <li>Im Webbrowser aufrufen: http://localhost/firma</li>    
 </ul> 
